@@ -22,30 +22,30 @@ InformaBot is a simple command-line based chatbot implemented in Python that use
 
 ## Contexts and Trigger Words
 
-InformaBot recognizes specific trigger words associated with different contexts. These trigger words are defined in the `context.txt` file. Each line in the file consists of a trigger word followed by a detailed response associated with that context.
+InformaBot recognizes specific trigger words associated with different contexts. These trigger words are defined in the `context.txt` file.
 
 ### Example Trigger Words:
 
-1. **greeting**: Hello, hi
-2. **goodbye**: Goodbye, bye
-3. **age**: age
-4. **weather**: weather
-5. **joke**: joke
-6. **name**: name
-7. **programming**: programming
-8. **python**: python
-9. **music**: music
-10. **food**: food
-11. **hobby**: hobby
-12. **sports**: sports
-13. **technology**: technology
-14. **mathematics**: mathematics
-15. **movie**: movie
-16. **book**: book
-17. **travel**: travel
-18. **history**: history
-19. **news**: news
-20. **emotion**: emotion
+1. **greeting**
+2. **goodbye**
+3. **age**
+4. **weather**
+5. **joke**
+6. **name**
+7. **programming**
+8. **python**
+9. **music**
+10. **food**
+11. **hobby**
+12. **sports**
+13. **technology**
+14. **mathematics**
+15. **movie**
+16. **book**
+17. **travel**
+18. **history**
+19. **news**
+20. **emotion**
 
 ### NLTK Techniques Used:
 
@@ -60,9 +60,7 @@ InformaBot recognizes specific trigger words associated with different contexts.
 
 ## Customizing InformaBot
 
-Feel free to customize the `context.txt` file by adding more trigger words and responses to expand InformaBot's capabilities. Adjustments can also be made to the NLTK techniques used for text processing based on specific requirements.
+Feel free to customize the `context.txt` file by adding more trigger words. Adjustments can also be made to the NLTK techniques used for text processing based on specific requirements.
 
 Happy chatting with InformaBot!
 ```
-
-This version of the README now refers to the chatbot as "InformaBot" throughout the document.
