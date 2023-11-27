@@ -63,4 +63,3 @@ InformaBot recognizes specific trigger words associated with different contexts.
 Feel free to customize the `context.txt` file by adding more trigger words. Adjustments can also be made to the NLTK techniques used for text processing based on specific requirements.
 
 Happy chatting with InformaBot!
-```
