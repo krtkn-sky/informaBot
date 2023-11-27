@@ -1,4 +1,3 @@
-```
 # InformaBot: Context-Based Chatbot with NLTK
 
 InformaBot is a simple command-line based chatbot implemented in Python that uses Natural Language Processing (NLP) techniques provided by the Natural Language Toolkit (NLTK). The chatbot responds to user input based on predefined trigger words associated with various contexts.
