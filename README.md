@@ -2,7 +2,7 @@
 
 InformaBot is a simple command-line based chatbot implemented in Python that uses Natural Language Processing (NLP) techniques provided by the Natural Language Toolkit (NLTK). The chatbot responds to user input based on predefined trigger words associated with various contexts.
 
-![image](https://github.com/krtkn-sky/informaBot/assets/121655285/037fcffb-8c29-4729-bc20-4b013ef64fb9)
+![image](https://github.com/krtkn-sky/informaBot/assets/121655285/e3064a1f-66e2-438d-893d-ad854d2fb278)
 
 ## How to Use
 
