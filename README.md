@@ -15,7 +15,7 @@ InformaBot is a simple command-line based chatbot implemented in Python that use
    Execute the chatbot script by running:
 
    ```bash
-   python chatbot.py
+   python informaBot.py
    ```
 
    InformaBot will greet you and wait for your input. Type 'exit' to end the conversation.
